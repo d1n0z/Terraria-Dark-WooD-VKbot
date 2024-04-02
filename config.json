@@ -1,0 +1,24 @@
+{
+  "vk_token_user": "",
+  "vk_token_group": "",
+  "vk_token_service": "",
+  "vk_access_key": "",
+  "group_id": 0,
+
+  "unknown_msg": "Я вас не понял :(",
+  "qna_list": {
+    "Здравствуйте": [
+      "ку",
+      "привет"
+    ],
+    "До свидания": [
+      "пока",
+      "поки",
+      "бб"
+    ],
+    "pong!": [
+      "ping",
+      "пинг"
+    ]
+  }
+}
